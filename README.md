@@ -1,2 +1,2 @@
-# mmdu_captive
+# MMDU_captive
 Captive Portal login shell script
